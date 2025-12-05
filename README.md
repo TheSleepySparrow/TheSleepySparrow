@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there! My name is Nastya ✌
 
-<!--
-**TheSleepySparrow/TheSleepySparrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🫡 About me
+- 21 years old (04.01.2004)
+- Student
+- Office-based / Remote work
+- Full-time / Part-time employment
+- In my spare time, I enjoy sketching and strolling in the parks
 
-Here are some ideas to get you started:
+### 😎 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Language: Russian (native), English (advanced)
+- Frontend: JS, HTML5, CSS3/SCSS, HTTP/HTTPS & REST API, Vue.js/Quasar, etc.
+- Backend: PostgreSQL/MySQL, FastAPI, Java (Spring Boot)
+- Additionally: Git, Docker, Nginx, Pinia, Vite, Figma, etc.
+
+### 🧐 Education
+
+- Studying in Information Science and Computation Technology, HSE University, Moscow
+- Graduated from school with flying colors
